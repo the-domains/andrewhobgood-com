@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-21T22:54:40.012Z'
+datePublished: '2016-01-21T22:54:40.034Z'
 dateModified: '2016-01-21T22:54:36.321Z'
 title: Writing
 author: []
