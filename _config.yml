@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.874552
+  brandStrength: 0.9974636
+  lightness: 0.7043011
+  rhythmicContrast: 0.6039426
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+typography_spectrum: 0.3064516
+name: andrewhobgood.com
