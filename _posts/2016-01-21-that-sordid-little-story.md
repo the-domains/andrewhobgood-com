@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T23:15:42.192Z'
-dateModified: '2016-01-21T23:15:38.400Z'
+datePublished: '2016-01-21T23:18:39.663Z'
+dateModified: '2016-01-21T23:18:37.743Z'
 title: That Sordid Little Story
 author: []
 sourcePath: _posts/2016-01-21-that-sordid-little-story.md
