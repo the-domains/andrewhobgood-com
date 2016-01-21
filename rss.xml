@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[AndrewHobgood.com]]></title>
         <description><![CDATA[AndrewHobgood.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://andrewhobgood.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 23:20:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jan 2016 23:20:49 GMT</lastBuildDate>
+        <atom:link href="http://andrewhobgood.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[That Sordid Little Story]]></title>
             <description><![CDATA[<article><h1>That Sordid Little Story</h1><p>Type: Play</p></article>]]></description>
-            <link>undefinedthat-sordid-little-story/index.html</link>
+            <link>http://andrewhobgood.com/that-sordid-little-story/index.html</link>
             <guid isPermaLink="false">2cd3bb25-ca9c-4e6a-95c6-73a7c42c437c</guid>
             <pubDate>Thu, 21 Jan 2016 23:20:27 GMT</pubDate>
         </item>
