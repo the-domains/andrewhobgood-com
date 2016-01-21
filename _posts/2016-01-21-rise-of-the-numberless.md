@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T23:16:25.060Z'
-dateModified: '2016-01-21T23:16:23.168Z'
+datePublished: '2016-01-21T23:20:42.014Z'
+dateModified: '2016-01-21T23:20:39.562Z'
 title: Rise of The Numberless
 author: []
+sourcePath: _posts/2016-01-21-rise-of-the-numberless.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-21-rise-of-the-numberless.md
-published: true
 url: rise-of-the-numberless/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Rise of The Numberless
