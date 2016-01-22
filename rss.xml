@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AndrewHobgood.com]]></title>
+        <description><![CDATA[AndrewHobgood.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Jan 2016 06:55:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Writing]]></title>
+            <description><![CDATA[<article><h1>Writing</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36c04b9baabf8873faae195d3a9576fc22494ab2.png"></article>]]></description>
+            <link>undefinedwriting/index.html</link>
+            <guid isPermaLink="false">db4fae6f-a754-4546-b121-6b5427954b5c</guid>
+            <pubDate>Fri, 22 Jan 2016 06:55:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
