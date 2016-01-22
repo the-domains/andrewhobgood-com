@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T07:12:24.374Z'
-dateModified: '2016-01-22T07:12:21.742Z'
+datePublished: '2016-01-22T07:15:08.218Z'
+dateModified: '2016-01-22T07:15:05.606Z'
 title: 5 Lesbians Eating a Quiche
 author: []
 sourcePath: _posts/2016-01-22-5-lesbians-eating-a-quiche.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: 5-lesbians-eating-a-quiche/index.html
-_type: Article
+_type: Blurb
 
 ---
 # 5 Lesbians Eating a Quiche
