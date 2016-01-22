@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T07:41:26.139Z'
-dateModified: '2016-01-22T07:41:23.657Z'
+datePublished: '2016-01-22T07:45:21.515Z'
+dateModified: '2016-01-22T07:45:19.047Z'
 title: Plastic Revolution
 author: []
 sourcePath: _posts/2016-01-22-plastic-revolution.md
