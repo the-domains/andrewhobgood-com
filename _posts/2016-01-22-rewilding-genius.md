@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T06:54:57.695Z'
+datePublished: '2016-01-22T06:54:57.717Z'
 dateModified: '2016-01-22T06:54:55.545Z'
 title: reWILDing Genius
 author: []
