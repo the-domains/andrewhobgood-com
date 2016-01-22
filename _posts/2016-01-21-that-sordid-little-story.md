@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T23:20:27.367Z'
-dateModified: '2016-01-21T23:20:25.387Z'
+datePublished: '2016-01-22T06:34:58.684Z'
+dateModified: '2016-01-22T06:32:13.433Z'
 title: That Sordid Little Story
 author: []
 sourcePath: _posts/2016-01-21-that-sordid-little-story.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: that-sordid-little-story/index.html
-_type: Article
+_type: Blurb
 
 ---
 # That Sordid Little Story
