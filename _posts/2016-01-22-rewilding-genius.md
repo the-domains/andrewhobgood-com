@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T06:50:09.550Z'
-dateModified: '2016-01-22T06:49:50.300Z'
+datePublished: '2016-01-22T06:52:37.404Z'
+dateModified: '2016-01-22T06:52:35.497Z'
 title: reWILDing Genius
 author: []
+sourcePath: _posts/2016-01-22-rewilding-genius.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-22-rewilding-genius.md
-published: true
 url: rewilding-genius/index.html
-_type: Article
+_type: Blurb
 
 ---
 # reWILDing Genius
