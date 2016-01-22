@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T06:37:22.706Z'
-dateModified: '2016-01-22T06:36:16.747Z'
+datePublished: '2016-01-22T23:10:52.162Z'
+dateModified: '2016-01-22T23:10:48.774Z'
 title: Rise of The Numberless
 author: []
 sourcePath: _posts/2016-01-21-rise-of-the-numberless.md
@@ -24,7 +24,7 @@ _type: Blurb
 ---
 # Rise of The Numberless
 
-**_Type: Musical_**
+**_Type: Musical, Glam Rock_**
 
 **__**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a949b29b-3299-495c-bbed-cb9d584fd210.jpg)
