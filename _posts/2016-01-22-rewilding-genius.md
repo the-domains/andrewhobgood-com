@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T06:52:37.479Z'
-dateModified: '2016-01-22T06:52:35.497Z'
+datePublished: '2016-01-22T06:53:37.398Z'
+dateModified: '2016-01-22T06:53:34.931Z'
 title: reWILDing Genius
 author: []
 sourcePath: _posts/2016-01-22-rewilding-genius.md
@@ -33,6 +33,6 @@ An Uptown Chicago loft becomes a breeding ground for young minds looking to chan
 _reWILDing Genius was initially developed in residency with The Theater and Performance Studies program at the University of Chicago and was given a workshop premiere at the Logan Center for the Arts, April 2013\._
 
 See more at: [http://thenewcolony.org/view/rewilding\_genius][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f4fdd92-f2c5-4bf4-82d7-0465f21ace44.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1576866be0d4646fa0ce4d7a404036883264a2f6.png)
 
 [0]: http://thenewcolony.org/view/rewilding_genius
