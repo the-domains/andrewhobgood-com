@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T23:11:54.932Z'
-dateModified: '2016-01-22T23:11:51.892Z'
+datePublished: '2016-01-22T23:14:42.264Z'
+dateModified: '2016-01-22T23:14:37.477Z'
 title: 5 Lesbians Eating a Quiche
 author: []
 sourcePath: _posts/2016-01-22-5-lesbians-eating-a-quiche.md
@@ -27,7 +27,7 @@ _type: Blurb
 _**Type: Play, Absurdist Comedy**_
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5b6629916c963204117280f491edc622bc025be.jpg)
 
-_Co-written with [Evan Linder][0], [Published by Samuel French Inc][1].
+_Co-written with [**Evan Linder**][0], [Published by Samuel French Inc][1].
   
 Premiered in Chicago in June 2011 with The New Colony
   
@@ -61,5 +61,5 @@ The year is 1956 and the Susan B. Anthony Society for the Sisters of Gertrude St
 
 _5 Lesbians Eating a Quiche was first presented by The New Colony, under Co-Artistic directors Andrew Hobgood and Evan Linder and producing director Will Rogers, at Dank Haus in Chicago, Illinois, on June 24, 2011\. It was directed by Sarah Gitenstein. This production was subsequently presented in New York City at the 2012 New York International Fringe Festival, before transferring to the SoHo Playhouse, Off-Broadway, on October 20, 2012\._
 
-[0]: evanlinder.com
+[0]: http://evanlinder.com/
 [1]: http://www.samuelfrench.com/p/9940/5-lesbians-eating-a-quiche
