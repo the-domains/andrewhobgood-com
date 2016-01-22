@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T07:15:08.306Z'
-dateModified: '2016-01-22T07:15:05.606Z'
+datePublished: '2016-01-22T23:11:54.789Z'
+dateModified: '2016-01-22T23:11:51.892Z'
 title: 5 Lesbians Eating a Quiche
 author: []
 sourcePath: _posts/2016-01-22-5-lesbians-eating-a-quiche.md
@@ -25,6 +25,7 @@ _type: Blurb
 # 5 Lesbians Eating a Quiche
 
 _**Type: Play, Absurdist Comedy**_
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5b6629916c963204117280f491edc622bc025be.jpg)
 
 _Co-written with [Evan Linder][0], [Published by Samuel French Inc][1].
   
@@ -37,7 +38,6 @@ Off-Broadway Run as part of Soho Playhouse's 2012-13 Season
 Over 25 US Productions since 2011
   
 Translations produced in Denmark and Puerto Rico in 2014_
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5b6629916c963204117280f491edc622bc025be.jpg)
 
 The year is 1956 and the Susan B. Anthony Society for the Sisters of Gertrude Stein is meeting for their annual quiche breakfast. However, this year there is an unexpected agenda item -- the dropping of atom bombs on their fair city. This normally idyllic gathering is upended when the Society's matriarchs must confront some startling revelations made by the Sisterhood while meeting the fallout from the Red Menace head on.
 
