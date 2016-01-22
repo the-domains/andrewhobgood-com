@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T06:34:58.684Z'
-dateModified: '2016-01-22T06:32:13.433Z'
+datePublished: '2016-01-22T07:24:04.690Z'
+dateModified: '2016-01-22T07:24:00.537Z'
 title: That Sordid Little Story
 author: []
 sourcePath: _posts/2016-01-21-that-sordid-little-story.md
@@ -24,10 +24,8 @@ _type: Blurb
 ---
 # That Sordid Little Story
 
-**_Type: Play_**
+**_Type: Musical, Bluegrass_**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c67f8ac-5f81-4513-b2e7-df9c8ad8003f.jpg)
-
-A concept album from 1963 within a stage play within a live performance, That Sordid Little Story mixes modern American story-telling devices with the traditions of Greek theatre to craft a hilarious and heart-wrenching tale of a boy in search of his past. Upon hearing the first tracks on the new album by the band "That Sordid Little Story," Billy realizes that they have written the story of his life, thus far, in song. His quest leads him to travel the American Bible Belt in hopes of finding the band, and ultimately the whereabouts of his father. As he stumbles along, his journey begins to shape the rest of the album. But is he a slave to his own fate or really its master?
 
 A concept album from 1963 within a stage play within a live performance, That Sordid Little Story mixes modern American story-telling devices with the traditions of Greek theatre to craft a hilarious and heart-wrenching tale of a boy in search of his past. Upon hearing the first tracks on the new album by the band "That Sordid Little Story," Billy realizes that they have written the story of his life, thus far, in song. His quest leads him to travel the American Bible Belt in hopes of finding the band, and ultimately the whereabouts of his father. As he stumbles along, his journey begins to shape the rest of the album. But is he a slave to his own fate or really its master?
 
