@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T07:29:12.299Z'
-dateModified: '2016-01-22T07:29:00.683Z'
+datePublished: '2016-01-22T07:32:10.326Z'
+dateModified: '2016-01-22T07:32:08.146Z'
 title: Plastic Revolution
 author: []
+sourcePath: _posts/2016-01-22-plastic-revolution.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-22-plastic-revolution.md
-published: true
 url: plastic-revolution/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Plastic Revolution
