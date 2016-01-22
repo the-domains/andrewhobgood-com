@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T07:10:58.150Z'
-dateModified: '2016-01-22T07:10:47.014Z'
+datePublished: '2016-01-22T07:12:24.278Z'
+dateModified: '2016-01-22T07:12:21.742Z'
 title: 5 Lesbians Eating a Quiche
 author: []
+sourcePath: _posts/2016-01-22-5-lesbians-eating-a-quiche.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-22-5-lesbians-eating-a-quiche.md
-published: true
 url: 5-lesbians-eating-a-quiche/index.html
 _type: Article
 
@@ -37,9 +37,9 @@ Off-Broadway Run as part of Soho Playhouse's 2012-13 Season
 Over 25 US Productions since 2011
   
 Translations produced in Denmark and Puerto Rico in 2014_
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5b6629916c963204117280f491edc622bc025be.jpg)
 
 The year is 1956 and the Susan B. Anthony Society for the Sisters of Gertrude Stein is meeting for their annual quiche breakfast. However, this year there is an unexpected agenda item -- the dropping of atom bombs on their fair city. This normally idyllic gathering is upended when the Society's matriarchs must confront some startling revelations made by the Sisterhood while meeting the fallout from the Red Menace head on.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd7d0c37-732f-4cb7-9638-33d2fb6ee132.jpg)
 
 > "Its raw and magnetic dementia seems destined to attract a cult following."   
 > - Ben Brantley, The New York Times
